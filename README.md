@@ -3,5 +3,5 @@
 Welcome to workshop
 
 
-Kaviraj Singh Bhati 
+KARAN PANDIT
 is working as a contributor.
